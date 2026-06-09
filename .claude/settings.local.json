@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mv /home/snazzy/Code/nanny-poc /home/snazzy/Code/agent-observer-poc)"
+    ],
+    "additionalDirectories": [
+      "/home/snazzy/Code"
+    ]
+  }
+}
